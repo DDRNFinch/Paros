@@ -1,0 +1,14 @@
+{
+  "name": "Paros – Functional Skills Tutor",
+  "short_name": "Paros",
+  "description": "Maths, English and Digital Skills tutor assistant for the Nisia ecosystem.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {"src":"./paros-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
